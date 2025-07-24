@@ -5,7 +5,7 @@ import Header from "./components/Header";
 function App() {
   return (
     <div className="">
-      <h1>hello react</h1>
+      <Header name={"ahmed"} title={"web"} color={"bg-blue-950"} />
     </div>
   );
 }
